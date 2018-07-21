@@ -1,4 +1,4 @@
-# File-Organisation-LISCH_EICH_RLISCH_BEISCH_Algorithms
+# File-Organisation-LISCH_EICH_RLISCH_BEISCH_Algorithms TR
 
 <p>LISCH: last insertion standard coalesced hashing</p> 
 <p>EICH: early insertion coalesced hashing</p>
